@@ -1,0 +1,64 @@
+[
+    {
+    "department":[
+        {
+          "3":"Computer Science",
+          "4":"Mathematics",
+          "5":"Physics",
+          "6":"Biology",
+          "7":"Chemistry"
+        },
+        {
+            "3":"Nepali",
+            "4":"Social",
+            "5":"Economics",
+            "6":"Poltical Science",
+            "7":"Chemistry"
+        },
+        {
+            "3":"Nepali",
+            "4":"Social",
+            "5":"Economics",
+            "6":"Poltical Science",
+            "7":"Chemistry"
+        },
+        {
+            "3":"Nepali",
+            "4":"Social",
+            "5":"Economics",
+            "6":"Poltical Science",
+            "7":"Chemistry"
+        }
+        
+
+    ] ,   
+
+    "bio": [ 
+        {
+            "name": "John Doe",
+            "rollno": "3"
+          
+        },
+        {
+            "name": "Jane Smith",
+            "rollno": "4"
+       
+        },
+        {
+            "name": "Alex Johnson",
+            "rollno": "5"
+       
+        },
+        {
+            "name": "Emily Brown",
+            "rollno": "6"
+          
+        },
+        {
+            "name": "Michael Wilson",
+            "rollno": "7"
+        
+        }
+   ] 
+}
+]
